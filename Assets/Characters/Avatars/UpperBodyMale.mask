@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBodyMale
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Male_Head_01
+    m_Weight: 1
+  - m_Path: Male_Head_02
+    m_Weight: 1
+  - m_Path: Male_Head_03
+    m_Weight: 1
+  - m_Path: Male_Head_04
+    m_Weight: 1
+  - m_Path: Male_Head_05
+    m_Weight: 1
+  - m_Path: Male_Head_06
+    m_Weight: 1
+  - m_Path: Male_Head_07
+    m_Weight: 1
+  - m_Path: Male_Head_08
+    m_Weight: 1
+  - m_Path: Male_Legs_01
+    m_Weight: 1
+  - m_Path: Male_Legs_01_v2
+    m_Weight: 1
+  - m_Path: Male_Legs_01_v3
+    m_Weight: 1
+  - m_Path: Male_Legs_01_v4
+    m_Weight: 1
+  - m_Path: Male_Legs_02
+    m_Weight: 1
+  - m_Path: Male_Legs_02_v2
+    m_Weight: 1
+  - m_Path: Male_Legs_02_v3
+    m_Weight: 1
+  - m_Path: Male_Legs_02_v4
+    m_Weight: 1
+  - m_Path: Male_Legs_03
+    m_Weight: 1
+  - m_Path: Male_Legs_03_v2
+    m_Weight: 1
+  - m_Path: Male_Legs_03_v3
+    m_Weight: 1
+  - m_Path: Male_Legs_03_v4
+    m_Weight: 1
+  - m_Path: Male_Legs_04
+    m_Weight: 1
+  - m_Path: Male_Legs_04_v2
+    m_Weight: 1
+  - m_Path: Male_Legs_04_v3
+    m_Weight: 1
+  - m_Path: Male_Legs_04_v4
+    m_Weight: 1
+  - m_Path: Male_Legs_05
+    m_Weight: 1
+  - m_Path: Male_Legs_05_v2
+    m_Weight: 1
+  - m_Path: Male_Legs_05_v3
+    m_Weight: 1
+  - m_Path: Male_Legs_05_v04
+    m_Weight: 1
+  - m_Path: Male_Legs_06
+    m_Weight: 1
+  - m_Path: Male_Legs_06_v2
+    m_Weight: 1
+  - m_Path: Male_Legs_06_v3
+    m_Weight: 1
+  - m_Path: Male_Legs_06_v4
+    m_Weight: 1
+  - m_Path: Male_Legs_07
+    m_Weight: 1
+  - m_Path: Male_Legs_07_v2
+    m_Weight: 1
+  - m_Path: Male_Legs_07_v3
+    m_Weight: 1
+  - m_Path: Male_Legs_07_v4
+    m_Weight: 1
+  - m_Path: Male_Legs_08
+    m_Weight: 1
+  - m_Path: Male_Legs_08_v2
+    m_Weight: 1
+  - m_Path: Male_Legs_08_v3
+    m_Weight: 1
+  - m_Path: Male_Legs_08_v4
+    m_Weight: 1
+  - m_Path: Male_Legs_09
+    m_Weight: 1
+  - m_Path: Male_Legs_09_v2
+    m_Weight: 1
+  - m_Path: Male_Legs_09_v3
+    m_Weight: 1
+  - m_Path: Male_Legs_09_v4
+    m_Weight: 1
+  - m_Path: Male_Legs_10
+    m_Weight: 1
+  - m_Path: Male_Legs_10_v2
+    m_Weight: 1
+  - m_Path: Male_Legs_10_v3
+    m_Weight: 1
+  - m_Path: Male_Legs_10_v4
+    m_Weight: 1
+  - m_Path: Male_Torso_01
+    m_Weight: 1
+  - m_Path: Male_Torso_01_v2
+    m_Weight: 1
+  - m_Path: Male_Torso_01_v3
+    m_Weight: 1
+  - m_Path: Male_Torso_01_v4
+    m_Weight: 1
+  - m_Path: Male_Torso_02
+    m_Weight: 1
+  - m_Path: Male_Torso_02_v2
+    m_Weight: 1
+  - m_Path: Male_Torso_02_v3
+    m_Weight: 1
+  - m_Path: Male_Torso_02_v4
+    m_Weight: 1
+  - m_Path: Male_Torso_03
+    m_Weight: 1
+  - m_Path: Male_Torso_03_v2
+    m_Weight: 1
+  - m_Path: Male_Torso_03_v3
+    m_Weight: 1
+  - m_Path: Male_Torso_03_v4
+    m_Weight: 1
+  - m_Path: Male_Torso_04
+    m_Weight: 1
+  - m_Path: Male_Torso_04_v2
+    m_Weight: 1
+  - m_Path: Male_Torso_04_v3
+    m_Weight: 1
+  - m_Path: Male_Torso_04_v4
+    m_Weight: 1
+  - m_Path: Male_Torso_05
+    m_Weight: 1
+  - m_Path: Male_Torso_05_v2
+    m_Weight: 1
+  - m_Path: Male_Torso_05_v3
+    m_Weight: 1
+  - m_Path: Male_Torso_05_v4
+    m_Weight: 1
+  - m_Path: Male_Torso_06
+    m_Weight: 1
+  - m_Path: Male_Torso_06_v2
+    m_Weight: 1
+  - m_Path: Male_Torso_06_v3
+    m_Weight: 1
+  - m_Path: Male_Torso_06_v4
+    m_Weight: 1
+  - m_Path: Male_Torso_07
+    m_Weight: 1
+  - m_Path: Male_Torso_07_v2
+    m_Weight: 1
+  - m_Path: Male_Torso_07_v3
+    m_Weight: 1
+  - m_Path: Male_Torso_07_v4
+    m_Weight: 1
+  - m_Path: Male_Torso_08
+    m_Weight: 1
+  - m_Path: Male_Torso_08_v2
+    m_Weight: 1
+  - m_Path: Male_Torso_08_v3
+    m_Weight: 1
+  - m_Path: Male_Torso_08_v4
+    m_Weight: 1
+  - m_Path: Male_Torso_09
+    m_Weight: 1
+  - m_Path: Male_Torso_09_v2
+    m_Weight: 1
+  - m_Path: Male_Torso_09_v3
+    m_Weight: 1
+  - m_Path: Male_Torso_09_v4
+    m_Weight: 1
+  - m_Path: Male_Torso_10
+    m_Weight: 1
+  - m_Path: Male_Torso_10_v2
+    m_Weight: 1
+  - m_Path: Male_Torso_10_v3
+    m_Weight: 1
+  - m_Path: Male_Torso_10_v4
+    m_Weight: 1
+  - m_Path: Root
+    m_Weight: 1
+  - m_Path: Root/Hips
+    m_Weight: 1
+  - m_Path: Root/Hips/L_UpperLeg
+    m_Weight: 1
+  - m_Path: Root/Hips/L_UpperLeg/L_LowerLeg
+    m_Weight: 1
+  - m_Path: Root/Hips/L_UpperLeg/L_LowerLeg/L_Foot
+    m_Weight: 1
+  - m_Path: Root/Hips/R_UpperLeg
+    m_Weight: 1
+  - m_Path: Root/Hips/R_UpperLeg/R_LowerLeg
+    m_Weight: 1
+  - m_Path: Root/Hips/R_UpperLeg/R_LowerLeg/R_Foot
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/L_UpperArm
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/L_UpperArm/L_LowerArm
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/L_UpperArm/L_LowerArm/L_Palm
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/R_UpperArm
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/R_UpperArm/R_LowerArm
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/R_UpperArm/R_LowerArm/R_Palm
+    m_Weight: 1
